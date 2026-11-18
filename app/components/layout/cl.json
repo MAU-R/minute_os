@@ -1,0 +1,229 @@
+[
+    {
+        "id": "FARMAH",
+        "nombre": "Farmacias del ahorro",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 57,
+        "endpoint_id": 1612,
+        "deduplicar": true,
+        "username": "reporteFA@nauphilus.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "TELCEL",
+        "nombre": "TELCEL",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 48,
+        "endpoint_id": 1614,
+        "deduplicar": false,
+        "username": "telcelReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "TELVIS",
+        "nombre": "TELVISTA",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 76,
+        "endpoint_id": 1615,
+        "deduplicar": true,
+        "username": "telvisReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "CEDISF",
+        "nombre": "CEDISF",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 70,
+        "endpoint_id": 1616,
+        "deduplicar": true,
+        "username": "cedisReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "SELFES",
+        "nombre": "SELFES",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 61,
+        "endpoint_id": 1617,
+        "deduplicar": true,
+        "username": "selfesReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBRH2",
+        "nombre": "INBURSA RH2",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 6,
+        "endpoint_id": 68,
+        "deduplicar": true,
+        "username": "inbrhReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBCRE",
+        "nombre": "INBURSA TDC",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 7,
+        "endpoint_id": 69,
+        "deduplicar": true,
+        "username": "inbcreReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBAUT",
+        "nombre": "INBAUT",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 9,
+        "endpoint_id": 90,
+        "deduplicar": false,
+        "username": "inbautReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "IAMSA2",
+        "nombre": "IAMSA",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 5,
+        "endpoint_id": 70,
+        "deduplicar": true,
+        "username": "iamsaReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBRHI",
+        "nombre": "INBURSA RH INTERNO",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 13,
+        "endpoint_id": 186,
+        "deduplicar": true,
+        "username": "reportBot@InbrhInterno.mail",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    }
+]
+{
+"expires_in": 3600,
+"scope": "ZohoCliq.Messages.READ,ZohoCliq.Channels.CREATE,ZohoCliq.Channels.READ,ZohoCliq.Channels.UPDATE,ZohoCliq.Channels.DELETE,ZohoCliq.Messages.CREATE,ZohoCliq.Messages.READ,ZohoCliq.Messages.UPDATE,ZohoCliq.Messages.DELETE",
+"SCOPE": "ZohoCliq.Channels.ALL",
+"TELEGRAM_CHAT_ID": "1937080146",
+"TELEGRAM_TOKEN": "8613033996:AAFgmNFMs_Gp193snmgZbpKPpdobAtf4Xp0",
+"token_type": "Bearer",
+"tz": "America/Mexico_City",
+"access_token": "1000.7dad8b42f914104b759d9bdc5038904c.cd3ec36e86a77c4fa96efa49f5d767b5",
+"channel_name": "botreporte",
+"client_id": "1000.CB8XB5ARLHECNOVCS8SQDUP1MZ1Y6W",
+"client_secret": "7db2cd93f76c49ed2a34eb63cd0dff3d8557ad0a6f",
+"domain": "com",
+"refresh_token": "1000.4f7876a250e085813bf802a29da6c829.082eb6b1438f6098d876e7f3315327dc"
+}
+
+[
+    {
+        "id": "FARMAH",
+        "nombre": "Farmacias del ahorro",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 57,
+        "endpoint_id": 1612,
+        "deduplicar": true,
+        "username": "reporteFA@nauphilus.com",
+        "password": "locoteA21",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "TELCEL",
+        "nombre": "TELCEL",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 48,
+        "endpoint_id": 1614,
+        "deduplicar": false,
+        "username": "telcelReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "TELVIS",
+        "nombre": "TELVISTA",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 76,
+        "endpoint_id": 1615,
+        "deduplicar": true,
+        "username": "telvisReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "CEDISF",
+        "nombre": "CEDISF",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 70,
+        "endpoint_id": 1616,
+        "deduplicar": true,
+        "username": "cedisReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "SELFES",
+        "nombre": "SELFES",
+        "base_url": "https://prod.nauphilus.com",
+        "membership_id": 61,
+        "endpoint_id": 1617,
+        "deduplicar": true,
+        "username": "selfesReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBRH2",
+        "nombre": "INBURSA RH2",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 6,
+        "endpoint_id": 68,
+        "deduplicar": true,
+        "username": "inbrhReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBCRE",
+        "nombre": "INBURSA TDC",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 7,
+        "endpoint_id": 69,
+        "deduplicar": true,
+        "username": "inbcreReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "INBAUT",
+        "nombre": "INBAUT",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 9,
+        "endpoint_id": 90,
+        "deduplicar": false,
+        "username": "inbautReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    },
+    {
+        "id": "IAMSA2",
+        "nombre": "IAMSA",
+        "base_url": "https://nauphilus.tcpip.tech",
+        "membership_id": 5,
+        "endpoint_id": 70,
+        "deduplicar": true,
+        "username": "iamsaReport@nauphilusmail.com",
+        "password": "e*`*}95UWc%u~%bR",
+        "zoho_webhook": ""
+    }
+]
